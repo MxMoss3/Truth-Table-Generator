@@ -34,10 +34,13 @@ v : or (Ex: PvQ    "either P or Q is true")
 **Valid Argument**
 
 A = Alice goes to party
+
 B = Betsy goes to party
+
 C = Carol goes to party
 
 If Alice or Betsy goes to the party, Carol will go to the party.                    (A v B) > C
+
 If Alice does not go to the party, Carol will not go to the party.                  -A > -C
 
 Therefore:
@@ -65,12 +68,17 @@ Valid!
 **Invalid Argument**
 
 P = Penny wins the race
+
 Q = Quinton is happy
+
 R = Rudy is happy
+
 S = Sarah wins the race
 
 If Penny wins the race, Quinton is not happy.                      P > -Q
+
 If Rudy is happy, Sarah didn't win the race.                       R > -S
+
 If Sarah is not happy, Penny did not win the race.                 -S > -P
 
 Therefore:
