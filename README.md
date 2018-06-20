@@ -13,10 +13,10 @@ Read up more about Truth tables and their use here: https://en.wikipedia.org/wik
 
 Operations are as follows:
 
-\> : implies (Ex: P>Q    "P implies Q")
-\& : and (Ex: P&Q    "both P and Q are true")
-\v : or (Ex: PvQ    "either P or Q is true")
-\- : not (Ex: -P    "not P")
+\> : implies (Ex: P>Q    "P implies Q")\n
+\& : and (Ex: P&Q    "both P and Q are true")\n
+\v : or (Ex: PvQ    "either P or Q is true")\n
+\- : not (Ex: -P    "not P")\n
 
 Example Premises and Conclusions:
 
