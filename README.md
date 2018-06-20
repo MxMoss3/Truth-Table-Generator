@@ -15,7 +15,7 @@ Read up more about Truth tables and their use here: https://en.wikipedia.org/wik
 
 
 
-Operations are as follows:
+## Operations are as follows:
 
 \> : implies (Ex: P>Q    "P implies Q")
 
@@ -29,9 +29,9 @@ v : or (Ex: PvQ    "either P or Q is true")
 
 
 
-Example Premises and Conclusions:
+## Example Premises and Conclusions:
 
--Valid Argument
+###### Valid Argument
 
 A = Alice goes to party
 B = Betsy goes to party
@@ -62,7 +62,7 @@ Valid!
 
 
 
--Invalid Argument
+###### Invalid Argument
 
 P = Penny wins the race
 Q = Quinton is happy
@@ -91,7 +91,7 @@ F T T F |   T  |   T  |   T   |  T
 F T F T |   T  |   T  |   T   |  T
 F T F F |   T  |   T  |   T   |  T
 F F T T |   T  |   F  |   T   |  F
-F F T F |   T  |   T  |   T   |  F  <---
+F F T F |   T  |   T  |   T   |  F                         <---
 F F F T |   T  |   T  |   T   |  T
 F F F F |   T  |   T  |   T   |  T
 
