@@ -31,7 +31,7 @@ v : or (Ex: PvQ    "either P or Q is true")
 
 ## Example Premises and Conclusions:
 
-**Valid Argument
+**Valid Argument**
 
 A = Alice goes to party
 B = Betsy goes to party
@@ -62,7 +62,7 @@ Valid!
 
 
 
-**Invalid Argument
+**Invalid Argument**
 
 P = Penny wins the race
 Q = Quinton is happy
