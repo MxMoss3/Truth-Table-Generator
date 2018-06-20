@@ -20,7 +20,9 @@ Operations are as follows:
 \> : implies (Ex: P>Q    "P implies Q")
 
 \& : and (Ex: P&Q    "both P and Q are true")
-\v : or (Ex: PvQ    "either P or Q is true")
+
+v : or (Ex: PvQ    "either P or Q is true")
+
 \- : not (Ex: -P    "not P")
 
 
