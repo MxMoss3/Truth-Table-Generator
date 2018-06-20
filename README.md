@@ -37,12 +37,18 @@ A = Alice goes to party,
 B = Betsy goes to party,
 C = Carol goes to party
 
-If Alice or Betsy goes to the party, Carol will go to the party.                    (A v B) > C
+If Alice or Betsy goes to the party, Carol will go to the party.                  
 
-If Alice does not go to the party, Carol will not go to the party.                  -A > -C
+If Alice does not go to the party, Carol will not go to the party.                  
 
 Therefore:
-If Betsy goes to the party, Alice will go to the party.                              B > A
+If Betsy goes to the party, Alice will go to the party.                             
+
+
+(A v B) > C
+-A > -C
+
+B > A
 
 Generated Table
 
@@ -70,14 +76,24 @@ Q = Quinton is happy,
 R = Rudy is happy,
 S = Sarah wins the race
 
-If Penny wins the race, Quinton is not happy.                      P > -Q
+If Penny wins the race, Quinton is not happy.                      
 
-If Rudy is happy, Sarah didn't win the race.                       R > -S
 
-If Sarah is not happy, Penny did not win the race.                 -S > -P
+If Rudy is happy, Sarah didn't win the race.                       
+
+
+If Sarah is not happy, Penny did not win the race.                 
+
 
 Therefore:
-If Rudy is happy, Quinton is happy.                                R > Q
+If Rudy is happy, Quinton is happy.                                
+
+
+P > -Q
+R > -S
+-S > -P
+
+R > Q
 
 P Q R S | P>-Q | R>-S | -S>-P | R>Q
 --------|------|------|-------|-----
