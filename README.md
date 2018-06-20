@@ -11,12 +11,21 @@ If the argument is invalid, the program will point out the instances where the a
 
 Read up more about Truth tables and their use here: https://en.wikipedia.org/wiki/Truth_table
 
+
+
+
+
 Operations are as follows:
 
-\> : implies (Ex: P>Q    "P implies Q")\n
-\& : and (Ex: P&Q    "both P and Q are true")\n
-\v : or (Ex: PvQ    "either P or Q is true")\n
-\- : not (Ex: -P    "not P")\n
+\> : implies (Ex: P>Q    "P implies Q")
+
+\& : and (Ex: P&Q    "both P and Q are true")
+\v : or (Ex: PvQ    "either P or Q is true")
+\- : not (Ex: -P    "not P")
+
+
+
+
 
 Example Premises and Conclusions:
 
@@ -46,6 +55,9 @@ F F T |    T    |   F   |  T
 F F F |    T    |   T   |  T  
                               
 Valid!                        
+
+
+
 
 
 -Invalid Argument
