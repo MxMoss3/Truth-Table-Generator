@@ -46,7 +46,9 @@ If Betsy goes to the party, Alice will go to the party.
 
 
 (A v B) > C
+
 -A > -C
+
 
 B > A
 
@@ -90,8 +92,11 @@ If Rudy is happy, Quinton is happy.
 
 
 P > -Q
+
 R > -S
+
 -S > -P
+
 
 R > Q
 
