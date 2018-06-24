@@ -23,7 +23,7 @@ Read up more about Truth tables and their use here: https://en.wikipedia.org/wik
 
 v : or (Ex: PvQ    "either P or Q is true")
 
-\- : not (Ex: -P    "not P")
+\- : not (Ex: -P    "P is not true")
 
 
 
